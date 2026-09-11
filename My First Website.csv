@@ -1,0 +1,623 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Relates),Inward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Attachment,Attachment,Attachment,Custom field (Development),Custom field (Issue colour),Custom field (Rank),Sprint,Sprint,Custom field (Start date),Custom field (Story point estimate),Custom field (Team),Custom field (Vulnerability),Parent,Parent key,Parent summary,Status Category,Status Category Changed
+Navigation / Homepage,MFW-1,10064,Epic,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:20 AM,11/Sep/26 8:20 AM,,,25/Sep/26 12:00 AM,0,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,dark_blue,0|i000cv:,,,11/Sep/26 12:00 AM,,,,,,,To Do,11/Sep/26 8:20 AM
+Inputs,MFW-2,10065,Epic,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:20 AM,11/Sep/26 9:08 AM,,,25/Sep/26 12:00 AM,0,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,dark_blue,0|i000d3:,,,11/Sep/26 12:00 AM,,,,,,,To Do,11/Sep/26 8:20 AM
+Buttons,MFW-3,10066,Epic,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:21 AM,11/Sep/26 10:33 AM,,,25/Sep/26 12:00 AM,0,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,dark_blue,0|i000db:,,,11/Sep/26 12:00 AM,,,,,,,To Do,11/Sep/26 8:21 AM
+Checkbox,MFW-4,10067,Epic,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:21 AM,11/Sep/26 10:33 AM,,,25/Sep/26 12:00 AM,0,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,dark_blue,0|i000dj:,,,11/Sep/26 12:00 AM,,,,,,,To Do,11/Sep/26 8:21 AM
+Select,MFW-5,10068,Epic,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:22 AM,11/Sep/26 10:33 AM,,,25/Sep/26 12:00 AM,0,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,dark_blue,0|i000dr:,,,11/Sep/26 12:00 AM,,,,,,,To Do,11/Sep/26 8:22 AM
+New Tab,MFW-6,10069,Epic,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:22 AM,11/Sep/26 10:33 AM,,,25/Sep/26 12:00 AM,0,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,dark_blue,0|i000dz:,,,11/Sep/26 12:00 AM,,,,,,,To Do,11/Sep/26 8:22 AM
+Text Area,MFW-7,10070,Epic,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:22 AM,11/Sep/26 10:33 AM,,,25/Sep/26 12:00 AM,0,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,dark_blue,0|i000e7:,,,11/Sep/26 12:00 AM,,,,,,,To Do,11/Sep/26 8:22 AM
+Alerts,MFW-8,10071,Epic,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:23 AM,11/Sep/26 10:33 AM,,,25/Sep/26 12:00 AM,0,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,dark_blue,0|i000ef:,,,11/Sep/26 12:00 AM,,,,,,,To Do,11/Sep/26 8:23 AM
+Drag and Drop,MFW-9,10072,Epic,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:23 AM,11/Sep/26 12:06 PM,,,25/Sep/26 12:00 AM,0,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,dark_blue,0|i000en:,,,11/Sep/26 12:00 AM,,,,,,,To Do,11/Sep/26 8:23 AM
+Iframes,MFW-10,10073,Epic,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:24 AM,11/Sep/26 12:06 PM,,,25/Sep/26 12:00 AM,0,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,dark_blue,0|i000ev:,,,11/Sep/26 12:00 AM,,,,,,,To Do,11/Sep/26 8:24 AM
+Pop-Up,MFW-11,10074,Epic,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:24 AM,11/Sep/26 12:06 PM,,,25/Sep/26 12:00 AM,0,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,dark_blue,0|i000f3:,,,11/Sep/26 12:00 AM,,,,,,,To Do,11/Sep/26 8:24 AM
+Forms — Practice Form,MFW-12,10075,Epic,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:25 AM,11/Sep/26 1:53 PM,,,13/Oct/26 12:00 AM,0,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,dark_blue,0|i000fb:,,,11/Sep/26 12:00 AM,,,,,,,To Do,11/Sep/26 8:25 AM
+Multiple Select,MFW-23,10086,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:36 AM,11/Sep/26 10:33 AM,11/Sep/26 10:17 AM,11/Sep/26 10:31 AM,,0,"As a QA engineer, I want to choose one or more options from the multi-select field, so that I can confirm all selections are reported correctly.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The user can select more than one option at once.
+* The user can deselect a previously selected option.
+* The Submit button sends all currently selected results.
+* After submission, all selected options are displayed on the page.
+* Resulting phrase template should be: ""to go by <transport> to the <destination> <when>"".",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000ff:,MFW Sprint 2,,,,,,10068,MFW-5,Select,Done,11/Sep/26 10:31 AM
+Site Navigation,MFW-13,10076,Story,In Progress,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:29 AM,11/Sep/26 2:41 PM,11/Sep/26 3:45 PM,,,0,"As a QA engineer, I want to navigate through the site's menu (Homepage, Single UI Elements, Forms), so that I can confirm all listed pages load correctly.
+
+Priority: Low
+Acceptance Criteria:
+
+* The left-hand menu displays: Homepage, Single UI Elements (Inputs, Buttons, Checkbox, Select, New tab, Text area, Alerts, Drag and Drop, Iframes, Pop-Up), and Forms (Practice Form).
+* Each menu item navigates to the correct corresponding page.
+* The currently active page is visually highlighted in the menu.
+* The ""Not sure where to start?"" quick-start list on the homepage (Text input, Simple button, Single checkbox, Text area, Select input) links to the correct pages.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,MFW-46,,,,,,,0|i000fj:,MFW Sprint 1,MFW Sprint 5,,,,,10064,MFW-1,Navigation / Homepage,In Progress,11/Sep/26 2:12 PM
+Inconsistent page titles displayed across multiple navigation menu items,MFW-46,10109,Bug,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 9:14 AM,11/Sep/26 2:41 PM,11/Sep/26 2:13 PM,,,0,"Several navigation menu items display page titles that do not match the selected menu item name, causing inconsistency in the user interface and potentially confusing users.
+
+*Steps to Reproduce:*
+
+# Open the application.
+# Navigate through the left-side menu items.
+# Observe the page title displayed after selecting each menu item.
+
+*Actual Result:*
+The displayed page titles differ from the corresponding menu item names.
+
+*Examples:*
+
+* Menu Item: ""Inputs"" → Displayed Title: ""Input field""
+* Menu Item: ""Checkbox"" → Displayed Title: ""Checkboxes""
+* Menu Item: ""Select"" → Displayed Title: ""Select inputs""
+* Menu Item: “New tab” → Displayed Title: “Open link in a new tab”
+* Menu Item: “Text area” → Displayed Title: “TextArea inputs”
+* Menu Item: “Drag and Drop” → Displayed Title: “Drag-n-drop”
+
+*Expected Result:*
+The page title should match the selected navigation menu item name or follow a consistent naming convention throughout the application.
+
+*Severity:* Low
+
+*Priority:* Low",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,MFW-13,,,,,,,,,0|i000fn:,MFW Sprint 5,,,,,,10064,MFW-1,Navigation / Homepage,To Do,11/Sep/26 2:13 PM
+Password Field,MFW-16,10079,Story,In Progress,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:31 AM,11/Sep/26 2:41 PM,11/Sep/26 2:12 PM,,,0,"As a QA engineer, I want to enter text into the Password field, so that I can confirm it enforces the required complexity rules.
+
+Priority: High
+Acceptance Criteria:
+
+* Minimum length of 8 characters is enforced.
+* At least one uppercase letter is required.
+* At least one lowercase letter is required.
+* At least one digit is required.
+* At least one special character is required.
+* Passwords failing any rule are rejected with an appropriate error.
+* The form can be submitted by pressing Enter.
+* After submission, the entered text is displayed on the page.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,MFW-47,,,,,,,0|i000fp:,MFW Sprint 1,MFW Sprint 5,,,,,10065,MFW-2,Inputs,In Progress,11/Sep/26 2:12 PM
+Generic error message is displayed when password validation requirements are not met,MFW-47,10110,Bug,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 9:57 AM,11/Sep/26 2:41 PM,11/Sep/26 2:13 PM,,,0,"The application displays a generic error message (""Low password complexity"") when the entered password does not satisfy one or more password requirements. The error message does not clearly indicate which validation rule has failed, making it difficult for users to understand how to correct their input.
+
+*Preconditions:*
+User is on the Password Validation page/form.
+
+*Steps to Reproduce:*
+
+# Open the Password Validation form.
+# Enter a password that violates one or more password requirements (e.g., ""password"" - no uppercase letter, digit, or special character).
+# Submit the form.
+
+*Actual Result:*
+The application displays the message:
+""Low password complexity""
+
+*Expected Result:*
+The application should display a clear validation message indicating which password requirement(s) are not met, for example:
+
+* Password must contain at least 8 characters.
+* Password must contain at least one uppercase letter.
+* Password must contain at least one lowercase letter.
+* Password must contain at least one digit.
+* Password must contain at least one special character.
+
+Alternatively, the application should provide specific feedback for each failed validation rule.
+
+*Severity:* Medium
+
+*Priority:* Medium
+
+*Environment:*
+
+* Browser:Chrome Browser
+* Version: 152.0.7977.83",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,MFW-16,,,,,,,,,0|i000fq:,MFW Sprint 5,,,,,,10065,MFW-2,Inputs,To Do,11/Sep/26 2:13 PM
+Text Input Field,MFW-14,10077,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:31 AM,11/Sep/26 9:22 AM,11/Sep/26 9:18 AM,11/Sep/26 9:22 AM,,0,"As a QA engineer, I want to enter text into the Text Input field, so that I can confirm it validates and submits correctly.
+
+Priority: High
+Acceptance Criteria:
+
+* The field is required; submitting it empty shows a validation error.
+* Only English letters, numbers, underscores, and hyphens are accepted as valid input.
+* Text shorter than 2 characters is rejected.
+* Text longer than 25 characters is rejected (or truncated/blocked at the limit).
+* The form can be submitted by pressing Enter, without clicking Submit.
+* After submission, the entered text is displayed on the page.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000fr:,MFW Sprint 1,,,,,,10065,MFW-2,Inputs,Done,11/Sep/26 9:22 AM
+Email Field,MFW-15,10078,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:31 AM,11/Sep/26 9:25 AM,11/Sep/26 9:23 AM,11/Sep/26 9:25 AM,,0,"As a QA engineer, I want to enter text into the Email field, so that I can confirm only valid email addresses are accepted.
+
+Priority: High
+Acceptance Criteria:
+
+* A valid email format (e.g., [user@example.com|mailto:user@example.com]) is accepted.
+* The ""localhost"" domain (e.g., user@localhost) is accepted as valid.
+* Invalid formats (missing ""@"", missing domain, spaces, etc.) are rejected with an error.
+* The form can be submitted by pressing Enter.
+* After submission, the entered email is displayed on the page.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000fz:,MFW Sprint 1,,,,,,10065,MFW-2,Inputs,Done,11/Sep/26 9:25 AM
+Simple Button,MFW-17,10080,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:33 AM,11/Sep/26 10:06 AM,11/Sep/26 10:06 AM,11/Sep/26 10:06 AM,,0,"As a QA engineer, I want to click the Simple Button, so that I can confirm it responds correctly to a click.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The button is labeled ""Click.""
+* The button is clickable/enabled by default.
+* Clicking the button triggers the expected action/response (e.g., visible confirmation).",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000gf:,MFW Sprint 2,,,,,,10066,MFW-3,Buttons,Done,11/Sep/26 10:06 AM
+Disabled Button,MFW-18,10081,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:33 AM,11/Sep/26 10:12 AM,11/Sep/26 10:10 AM,11/Sep/26 10:12 AM,,0,"As a QA engineer, I want to toggle the enable/disable control for the Submit button, so that I can confirm its enabled/disabled state behaves correctly.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The Submit button is disabled by default.
+* The user can enable the button via the provided control.
+* The user can subsequently disable the button again via the same control.
+* A disabled button cannot be clicked/submitted.
+* An enabled button can be clicked/submitted successfully.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000gn:,MFW Sprint 2,,,,,,10066,MFW-3,Buttons,Done,11/Sep/26 10:12 AM
+"Looks Like a Button"" Element",MFW-19,10082,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:33 AM,11/Sep/26 10:10 AM,11/Sep/26 10:06 AM,11/Sep/26 10:10 AM,,0,"As a QA engineer, I want to interact with the element styled to look like a button, so that I can confirm its actual underlying behavior matches (or intentionally differs from) a real button.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The element is visually styled like a standard button.
+* *(To confirm on page — verify actual tag/role, e.g., whether it is a real {{<button>}}, a styled {{<div>}}/{{<span>}}/{{<a>}}, and whether it is keyboard-accessible and clickable as expected.)",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000gv:,MFW Sprint 2,,,,,,10066,MFW-3,Buttons,Done,11/Sep/26 10:10 AM
+Single Checkbox,MFW-20,10083,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:35 AM,11/Sep/26 10:14 AM,11/Sep/26 10:12 AM,11/Sep/26 10:14 AM,,0,"As a QA engineer, I want to select/deselect the single checkbox, so that I can confirm the result is reported correctly on submit.
+
+Priority: Medium
+Acceptance Criteria:
+
+* There is exactly one checkbox on the page, labeled ""Select me or not.""
+* The user can select and deselect the checkbox.
+* The Submit button is always enabled, regardless of checkbox state.
+* If the checkbox was not selected at submit time, no result is displayed.
+* If the checkbox was selected at submit time, the checkbox's name is displayed to the user.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000h3:,MFW Sprint 2,,,,,,10067,MFW-4,Checkbox,Done,11/Sep/26 10:14 AM
+Multiple Checkboxes,MFW-21,10084,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:35 AM,11/Sep/26 10:16 AM,11/Sep/26 10:15 AM,11/Sep/26 10:16 AM,,0,"As a QA engineer, I want to select any combination of the three checkboxes, so that I can confirm all selected values are reported correctly on submit.
+
+Priority: Medium
+Acceptance Criteria:
+
+* There are exactly three checkboxes labeled ""One,"" ""Two,"" and ""Three.""
+* The user can select any checkbox, in any combination.
+* The Submit button is always enabled.
+* If no checkbox is selected at submit time, no result is displayed.
+* If one or more checkboxes are selected, the name(s) of all selected checkboxes are displayed.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000hb:,MFW Sprint 2,,,,,,10067,MFW-4,Checkbox,Done,11/Sep/26 10:16 AM
+Single Select,MFW-22,10085,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:36 AM,11/Sep/26 10:17 AM,11/Sep/26 10:16 AM,11/Sep/26 10:17 AM,,0,"As a QA engineer, I want to choose an option from the ""Choose language"" dropdown, so that I can confirm the selection is validated and reported correctly.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The field is labeled ""Choose language"" and is required.
+* Submitting without a selection shows a validation error.
+* The user can select any available option.
+* The Submit button sends the selected result.
+* After submission, the selected option is displayed on the page.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000hj:,MFW Sprint 2,,,,,,10068,MFW-5,Select,Done,11/Sep/26 10:17 AM
+New Tab Link,MFW-24,10087,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:37 AM,11/Sep/26 10:35 AM,11/Sep/26 10:34 AM,11/Sep/26 10:35 AM,,0,"As a QA engineer, I want to click the ""New tab"" link, so that I can confirm it opens the correct page in a new browser tab.
+
+Priority: Low
+Acceptance Criteria:
+
+* Clicking the link opens a new browser tab (not the same tab).
+* The new tab loads the expected destination page.
+* The original tab remains open and unchanged.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000hz:,MFW Sprint 2,,,,,,10069,MFW-6,New Tab,Done,11/Sep/26 10:35 AM
+New Tab Button,MFW-25,10088,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:37 AM,11/Sep/26 10:36 AM,11/Sep/26 10:35 AM,11/Sep/26 10:36 AM,,0,"As a QA engineer, I want to click the ""New tab"" button, so that I can confirm it opens the correct page in a new browser tab.
+
+Priority: Low
+Acceptance Criteria:
+
+* Clicking the button opens the page {{/elements/new\\_tab/new\\_page}}.
+* The page opens in a new browser tab, not the current one.
+* The original tab remains open and unchanged.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000i7:,MFW Sprint 2,,,,,,10069,MFW-6,New Tab,Done,11/Sep/26 10:36 AM
+Single Text Area,MFW-26,10089,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:38 AM,11/Sep/26 10:38 AM,11/Sep/26 10:36 AM,11/Sep/26 10:38 AM,,0,"As a QA engineer, I want to enter text into the ""Text area"" field, so that I can confirm it validates and submits correctly.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The field is labeled ""Text area"" and is required.
+* Submitting without entering text shows a validation error.
+* The user can enter any text into the field.
+* The Submit button sends the entered text.
+* After submission, the entered text is displayed on the page.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000if:,MFW Sprint 2,,,,,,10070,MFW-7,Text Area,Done,11/Sep/26 10:38 AM
+Multiple Text Areas,MFW-27,10090,Story,In Progress,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:38 AM,11/Sep/26 2:13 PM,11/Sep/26 2:13 PM,,,0,"As a QA engineer, I want to enter text into the ""First chapter,"" ""Second chapter,"" and ""Third chapter"" fields, so that I can confirm each field validates and submits independently.
+
+Priority: Medium
+Acceptance Criteria:
+
+* All three fields (""First chapter,"" ""Second chapter,"" ""Third chapter"") are present.
+* Only ""First chapter"" is required; the other two are optional.
+* Submitting with ""First chapter"" empty shows a validation error.
+* The user can enter any text into each field.
+* After submission, the text entered into all fields is displayed on the page.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,MFW-48,,,,,,,0|i000in:,MFW Sprint 2,,,,,,10070,MFW-7,Text Area,In Progress,11/Sep/26 2:13 PM
+Alert Box,MFW-28,10091,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:39 AM,11/Sep/26 12:05 PM,11/Sep/26 10:53 AM,11/Sep/26 12:05 PM,,0,"As a QA engineer, I want to trigger the JS alert box, so that I can confirm its content and dismissal behavior.
+
+Priority: Medium
+Acceptance Criteria:
+
+* A ""Click"" button is present on the page.
+* Clicking it displays a native alert containing the text ""I am an alert!""
+* The alert has an OK button.
+* Clicking OK closes the alert.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000iv:,MFW Sprint 2,,,,,,10071,MFW-8,Alerts,Done,11/Sep/26 12:05 PM
+Confirmation Box,MFW-29,10092,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:39 AM,11/Sep/26 12:05 PM,11/Sep/26 8:40 AM,11/Sep/26 12:05 PM,,0,"As a QA engineer, I want to trigger the JS confirmation box and choose OK or Cancel, so that I can confirm the correct result is recorded for each choice.
+
+Priority: Medium
+Acceptance Criteria:
+
+* A ""Click"" button is present on the page.
+* Clicking it displays a native confirm dialog containing the text ""I am an alert!""
+* The dialog has OK and Cancel buttons.
+* Choosing OK records/displays the corresponding result (""You selected"" OK).
+* Choosing Cancel records/displays the corresponding result (""You selected"" Cancel).",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000j3:,MFW Sprint 2,,,,,,10071,MFW-8,Alerts,Done,11/Sep/26 12:05 PM
+Prompt Box,MFW-30,10093,Story,In Progress,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:39 AM,11/Sep/26 2:13 PM,11/Sep/26 2:13 PM,,,0,"As a QA engineer, I want to trigger the JS prompt box, enter text, and choose OK or Cancel, so that I can confirm the entered value and choice are handled correctly.
+
+Priority: Medium
+Acceptance Criteria:
+
+* A ""Click"" button is present on the page.
+* Clicking it displays a native prompt containing the text ""I am an alert!""
+* The prompt has OK and Cancel buttons plus a text input field.
+* Submitting with OK records/displays the text the user entered.
+* Choosing Cancel does not record/display any entered text.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,MFW-49,,,,,,,0|i000jb:,MFW Sprint 2,,,,,,10071,MFW-8,Alerts,In Progress,11/Sep/26 2:13 PM
+Boxes,MFW-31,10094,Story,In Progress,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:40 AM,11/Sep/26 2:13 PM,11/Sep/26 2:13 PM,,,0,"As a QA engineer, I want to drag the bottom square into the top square, so that I can confirm the drag-and-drop feature works correctly for the Boxes tab.
+
+Priority: Medium
+Acceptance Criteria:
+
+* Two squares are displayed: ""Drop here"" (top) and ""Drag me"" (bottom).
+* The bottom square can be dragged and dropped onto the top square.
+* On a successful drop, the text ""Dropped!"" appears inside the top square.
+* The bottom square can only be dragged once; a second drag attempt has no effect.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,MFW-50,,,,,,,0|i000jj:,MFW Sprint 3,,,,,,10072,MFW-9,Drag and Drop,In Progress,11/Sep/26 2:13 PM
+Images,MFW-32,10095,Story,In Progress,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:40 AM,11/Sep/26 2:13 PM,11/Sep/26 2:13 PM,,,0,"As a QA engineer, I want to drag the smiley image between the two squares repeatedly, so that I can confirm the drag-and-drop feature works correctly and without restriction for the Images tab.
+
+Priority: Medium
+Acceptance Criteria:
+
+* Two squares are displayed, with the smiley initially in the top square.
+* There should be a smiley in the bottom square
+* The smiley can be dragged between the two squares an unlimited number of times.
+* On a successful drop, the text ""Dropped!"" appears in the square that received the smiley.
+* The square that does not contain the smiley remains completely empty.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,MFW-51,MFW-52,,,,,,0|i000jr:,MFW Sprint 3,,,,,,10072,MFW-9,Drag and Drop,In Progress,11/Sep/26 2:13 PM
+Iframe Page,MFW-33,10096,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:41 AM,11/Sep/26 1:49 PM,11/Sep/26 1:43 PM,11/Sep/26 1:49 PM,,0,"As a QA engineer, I want to locate and interact with elements inside the embedded iframe, so that I can confirm the iframe content loads and is accessible correctly.
+
+Priority: Medium
+Acceptance Criteria:
+
+* An iframe containing a sample page is present on the page.
+* The iframe's content loads correctly and is visible.
+* Elements inside the iframe can be located and interacted with independently of the parent page.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000jz:,MFW Sprint 3,,,,,,10073,MFW-10,Iframes,Done,11/Sep/26 1:49 PM
+Modal Pop-Up,MFW-34,10097,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:42 AM,11/Sep/26 1:50 PM,11/Sep/26 1:49 PM,11/Sep/26 1:50 PM,,0,"As a QA engineer, I want to launch the modal Pop-Up, select a checkbox, and send or cancel, so that I can confirm the correct value is passed back to the page.
+
+Priority: Medium
+Acceptance Criteria:
+
+* A button named ""Launch Pop-Up"" is present and opens the Pop-Up.
+* The Pop-Up title reads ""I am a Pop-Up.""
+* The Pop-Up contains a checkbox labeled ""Select me or not.""
+* The Pop-Up has two buttons: ""Cancel"" and ""Send.""
+* Clicking ""Send"" passes the checkbox's selected value back to the main page.
+* The value sent is displayed in a ""Selected checkboxes"" section on the page.
+* The ""Selected checkboxes"" section is not present until a value has been sent at least once via the Pop-Up.
+* Clicking ""Cancel"" closes the Pop-Up without sending any value.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000k7:,MFW Sprint 3,,,,,,10074,MFW-11,Pop-Up,Done,11/Sep/26 1:50 PM
+Iframe Pop-Up,MFW-35,10098,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:42 AM,11/Sep/26 1:52 PM,11/Sep/26 1:50 PM,11/Sep/26 1:52 PM,,0,"As a QA engineer, I want to enter text into a field located inside an iframe within a Pop-Up, so that I can confirm the input is validated correctly.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The Pop-Up contains an iframe with an input field.
+* Entering the correct expected text and submitting shows a green ""Correct!"" message.
+* Entering incorrect text and submitting shows a yellow ""Nope."" message (or equivalent negative feedback).",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000kf:,MFW Sprint 3,,,,,,10074,MFW-11,Pop-Up,Done,11/Sep/26 1:52 PM
+Required Field Validation,MFW-36,10099,Story,In Progress,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:42 AM,11/Sep/26 2:23 PM,11/Sep/26 2:37 PM,,,0,"As a QA engineer, I want to submit the Student Registration form with required fields left empty, so that I can confirm validation correctly blocks submission.
+
+Priority: High
+Acceptance Criteria:
+
+* First Name, Last Name, Gender, and Mobile are marked as required (*).
+* Submitting the form with any required field empty displays a validation error and does not submit.
+* Filling in all required fields (leaving optional fields empty) allows successful submission.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,MFW-54,,,,,,,0|i000kn:,MFW Sprint 4,,,,,,10075,MFW-12,Forms — Practice Form,In Progress,11/Sep/26 2:18 PM
+Mobile Number Validation,MFW-37,10100,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:42 AM,11/Sep/26 2:15 PM,11/Sep/26 2:15 PM,11/Sep/26 2:15 PM,,0,"As a QA engineer, I want to enter various values into the Mobile field, so that I can confirm only a valid 10-digit number is accepted.
+
+Priority: High
+Acceptance Criteria:
+
+* The field accepts exactly 10 digits.
+* Non-numeric characters are rejected.
+* Fewer than 10 digits is rejected on submit.
+* More than 10 digits is either blocked from entry or rejected on submit.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000kv:,MFW Sprint 4,,,,,,10075,MFW-12,Forms — Practice Form,Done,11/Sep/26 2:15 PM
+Gender Selection,MFW-38,10101,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:43 AM,11/Sep/26 2:16 PM,11/Sep/26 2:15 PM,11/Sep/26 2:16 PM,,0,"As a QA engineer, I want to select each Gender option, so that I can confirm only one option can be active at a time.
+
+Priority: Medium
+Acceptance Criteria:
+
+* Options ""Male,"" ""Female,"" and ""Other"" are shown as radio buttons.
+* Only one option can be selected at a time.
+* Gender is required for submission.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000l3:,MFW Sprint 4,,,,,,10075,MFW-12,Forms — Practice Form,Done,11/Sep/26 2:16 PM
+Subjects Field,MFW-39,10102,Story,In Progress,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:43 AM,11/Sep/26 2:16 PM,11/Sep/26 2:16 PM,,,0,"As a QA engineer, I want to enter text into the ""Subjects"" field and move focus away or press Enter, so that I can confirm the entered text is retained.
+
+Priority: High
+Acceptance Criteria:
+
+* Text entered into the Subject field is retained after clicking outside the field (on blur).
+* Text entered into the Subject field is retained after pressing Enter.
+* The entered subject appears correctly if the field supports multiple tag-style entries (verify against intended design).",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,MFW-53,,,,,,,0|i000lb:,MFW Sprint 4,,,,,,10075,MFW-12,Forms — Practice Form,In Progress,11/Sep/26 2:16 PM
+Hobbies Selection,MFW-40,10103,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:43 AM,11/Sep/26 2:26 PM,11/Sep/26 2:25 PM,11/Sep/26 2:26 PM,,0,"As a QA engineer, I want to select any combination of Hobbies checkboxes, so that I can confirm multiple selections are supported and retained.
+
+Priority: Low
+Acceptance Criteria:
+
+* Options ""Sports,"" ""Reading,"" and ""Music"" are available as checkboxes.
+* Any combination (including none, one, or all) can be selected.
+* Selected hobbies are retained through form submission and reflected in the confirmation.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000lj:,MFW Sprint 4,,,,,,10075,MFW-12,Forms — Practice Form,Done,11/Sep/26 2:26 PM
+Picture Upload,MFW-41,10104,Story,In Progress,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:43 AM,11/Sep/26 2:36 PM,11/Sep/26 2:26 PM,,,0,"As a QA engineer, I want to upload a picture using the Picture field, so that I can confirm only supported file types/sizes are accepted.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The field accepts standard image file types (e.g., JPG, PNG).
+* Non-image files are rejected with an appropriate error.
+* The selected file name is displayed once chosen.
+* The user can replace a previously selected file with a new one before submitting.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,MFW-55,,,,,,,0|i000lr:,MFW Sprint 4,,,,,,10075,MFW-12,Forms — Practice Form,In Progress,11/Sep/26 2:36 PM
+State/City Dependent Selects,MFW-42,10105,Story,In Progress,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:43 AM,11/Sep/26 2:39 PM,11/Sep/26 3:44 PM,,,0,"As a QA engineer, I want to select a State and then a City, so that I can confirm the City list correctly depends on the selected State.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The State dropdown includes ""Select State,"" ""NCR,"" ""Uttar Pradesh,"" ""Haryana,"" ""Rajasthan.""
+* The City dropdown is empty/disabled until a State is chosen (""Select City"" placeholder shown).
+* Selecting a State populates the City dropdown with cities relevant to that State only.
+* Changing the State after a City is already selected resets/updates the City field appropriately.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,MFW-54,,,,,,,0|i000lz:,MFW Sprint 4,,,,,,10075,MFW-12,Forms — Practice Form,In Progress,11/Sep/26 2:38 PM
+Successfull Submission,MFW-43,10106,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:43 AM,11/Sep/26 2:39 PM,11/Sep/26 2:39 PM,11/Sep/26 2:39 PM,,0,"As a QA engineer, I want to fill in all required fields correctly and submit the form, so that I can confirm the confirmation modal appears as expected.
+
+Priority: High
+Acceptance Criteria:
+
+* With all required fields filled in validly, clicking Submit succeeds without errors.
+* A confirmation modal appears with the heading ""Thanks for submitting the form.""
+* The modal has a ""Close"" button that dismisses it.
+* After closing, the form is left in a consistent state (either cleared or as defined by design — verify expected behavior).",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000m7:,MFW Sprint 4,,,,,,10075,MFW-12,Forms — Practice Form,Done,11/Sep/26 2:39 PM
+Ad Placeholder Overlap,MFW-44,10107,Story,Done,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,Done,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 8:44 AM,11/Sep/26 2:40 PM,11/Sep/26 2:39 PM,11/Sep/26 2:40 PM,,0,"As a QA engineer, I want to verify the ad placeholder does not overlap interactive form fields, so that I can confirm all fields remain clickable and usable.
+
+Priority: Low
+Acceptance Criteria:
+
+* The ad placeholder is rendered in its designated area only.
+* No form field, label, or button is obscured or made unclickable by the ad placeholder at common screen resolutions.
+* Automated locators for form fields are not intercepted by the ad placeholder element.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,,,,,,,,,,0|i000mf:,MFW Sprint 4,,,,,,10075,MFW-12,Forms — Practice Form,Done,11/Sep/26 2:40 PM
+Text Area input is automatically converted from uppercase to sentence case after submission,MFW-48,10111,Bug,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 10:50 AM,11/Sep/26 2:04 PM,11/Sep/26 10:50 AM,,,0,"*Bug Type:* Functional
+
+*Priority:* Medium
+
+*Environment:*
+
+* Browser: Chrome Browser
+* Version: 153.0.8010.37
+
+*Preconditions:*
+
+* User is on the page containing the three Text Area fields.
+* The first Text Area is mandatory.
+
+*Steps to Reproduce:*
+
+# Navigate to the form page.
+# Enter the value *""QA""* in the first (mandatory) Text Area.
+# Leave the other fields as desired.
+# Click the *Submit* button.
+# Observe the submitted value displayed on the page.
+
+*Expected Result:*
+The entered value should be displayed exactly as entered by the user (*""QA""*), without any modification of letter casing.
+
+*Actual Result:*
+The entered value *""QA""* is displayed as *""Qa""* after form submission.
+
+*Additional Observation:*
+The issue occurs with any word entered entirely in uppercase letters. After submission, only the first character remains uppercase while all remaining characters are automatically converted to lowercase.
+
+*Examples:*
+
+* Input: *QA* → Displayed: *Qa*
+* Input: *TESTING* → Displayed: *Testing*
+* Input: *BUG* → Displayed: *Bug*
+
+*Impact:*
+The application alters user-provided data and does not preserve the original input format, which may lead to incorrect data representation.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,MFW-27,,,,,,,,,0|i000n3:,,,,,,,10070,MFW-7,Text Area,To Do,11/Sep/26 2:04 PM
+Cancel button does not display the user's input from the prompt,MFW-49,10112,Bug,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 12:02 PM,11/Sep/26 2:04 PM,11/Sep/26 12:03 PM,,,0,"*Bug Type:* Functional
+
+*Priority:* Medium
+
+*Environment:*
+
+* Browser: [Specify Browser]
+* Version: [Specify Version]
+* Environment: [QA/UAT/Production]
+
+*Preconditions:*
+
+* User is on the page containing the *Click* button.
+
+*Steps to Reproduce:*
+
+# Navigate to the page.
+# Click the *Click* button.
+# Observe that an alert/prompt window is displayed.
+# Enter any text in the input field, for example *""QA Testing""*.
+# Click the *Cancel* button.
+# Observe the message displayed on the page.
+
+*Expected Result:*
+After clicking *Cancel*, the text entered by the user in the prompt input field should be displayed on the page, according to the requirement:
+
+*""The user's input should be displayed on the page.""*
+
+*Actual Result:*
+After clicking *Cancel*, the user's input is not displayed. Instead, the page displays the message:
+
+*""You cancel the prompt""*
+
+For example:
+
+* Input: *QA Testing*
+* Click: *Cancel*
+* Expected output: *QA Testing*
+* Actual output: *You cancel the prompt*
+
+*Additional Information:*
+When the user clicks *OK*, the entered text is correctly displayed on the page. The issue occurs only when the *Cancel* button is used.
+
+*Impact:*
+The application does not behave consistently between the *OK* and *Cancel* actions and does not satisfy the requirement that the user's input should be displayed after closing the prompt.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,MFW-30,,,,,,,,,0|i000nb:,,,,,,,10071,MFW-8,Alerts,To Do,11/Sep/26 2:04 PM
+Bottom square can be dragged multiple times if not dropped onto the top square,MFW-50,10113,Bug,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 12:14 PM,11/Sep/26 2:04 PM,11/Sep/26 12:14 PM,,,0,"*Component:* Drag and Drop – Boxes page
+*URL:* [https://www.qa-practice.com/elements/dragndrop/boxes|https://www.qa-practice.com/elements/dragndrop/boxes|smart-link] 
+
+*Priority:* Medium
+*Severity:* Minor (functional, not blocking, but violates stated requirement)
+
+*Environment:* [fill in browser/OS you tested on, e.g. Chrome 128 / Windows 11]
+
+*Requirement violated:*
+""The bottom square can only be dragged once""
+
+*Steps to Reproduce:*
+
+# Go to [https://www.qa-practice.com/elements/dragndrop/boxes|https://www.qa-practice.com/elements/dragndrop/boxes|smart-link] 
+# Drag the bottom square (""Drag me"") to any location that is *not* the top square (""Drop here"")
+# Release the mouse — the square stays where dropped
+# Repeat step 2–3 multiple times, dragging the square to different empty areas
+# Observe how many times the drag can be repeated
+
+*Expected Result:*
+Per the stated requirement, the bottom square should only be draggable once — implying that after the first drag (or first drag attempt), further dragging should be disabled or ignored, regardless of where it lands.
+
+*Actual Result:*
+The square can be dragged an unlimited number of times, as long as it is not dropped onto the top square. The ""once only"" restriction is only enforced once the square is successfully dropped on the top square (triggering ""Dropped!""), not on the act of dragging itself.
+
+*Additional Notes:*
+This suggests the ""drag count"" or ""locked"" state is being set only inside the successful-drop event handler, rather than on drag start/end in general. If the intent was ""the user gets one shot at placing it,"" the fix should track drag attempts (or lock the element after the first drag interaction) rather than only locking on successful drop.
+
+!Second Position.jpg|width=264,alt=""Second Position.jpg""!
+
+!First Position.jpg|width=264,alt=""First Position.jpg""!
+
+!Third Position.jpg|width=264,alt=""Third Position.jpg""!",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,MFW-31,,,,11/Sep/26 12:18 PM;146f1d14-1119-4f8e-ac97-47ff2be2b93e;First Position.jpg;https://privaterelay-team-e6l0pzy9.atlassian.net/rest/api/3/attachment/content/10006,11/Sep/26 12:18 PM;146f1d14-1119-4f8e-ac97-47ff2be2b93e;Second Position.jpg;https://privaterelay-team-e6l0pzy9.atlassian.net/rest/api/3/attachment/content/10008,11/Sep/26 12:18 PM;146f1d14-1119-4f8e-ac97-47ff2be2b93e;Third Position.jpg;https://privaterelay-team-e6l0pzy9.atlassian.net/rest/api/3/attachment/content/10007,,,0|i000nj:,,,,,,,10072,MFW-9,Drag and Drop,To Do,11/Sep/26 2:04 PM
+Smiley appears in the top square on page load instead of the bottom square,MFW-51,10114,Bug,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 1:30 PM,11/Sep/26 2:04 PM,11/Sep/26 1:31 PM,,,0,"*Component:* Drag and Drop – Images page
+*URL:* [https://www.qa-practice.com/elements/dragndrop/images|https://www.qa-practice.com/elements/dragndrop/images|smart-link] 
+
+*Priority:* High
+*Severity:* Major
+
+*Environment:* Chrome Browser / Windows 11
+
+*Requirement violated:*
+""There should be a smiley in the bottom square""
+
+*Steps to Reproduce:*
+
+# Go to [https://www.qa-practice.com/elements/dragndrop/images|https://www.qa-practice.com/elements/dragndrop/images|smart-link] 
+# Observe the page on initial load, without performing any action
+
+*Expected Result:*
+The smiley should be in the bottom square on page load. The top square should be empty.
+
+*Actual Result:*
+The smiley is in the top square on page load; the bottom square is empty.
+
+!Initial load page.jpg|width=264,alt=""Initial load page.jpg""!",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,MFW-32,,,,11/Sep/26 1:33 PM;146f1d14-1119-4f8e-ac97-47ff2be2b93e;Initial load page.jpg;https://privaterelay-team-e6l0pzy9.atlassian.net/rest/api/3/attachment/content/10009,,,,,0|i000nr:,,,,,,,10072,MFW-9,Drag and Drop,To Do,11/Sep/26 2:04 PM
+"Double-clicking the smiley moves it between squares without updating ""Dropped!"" text, leaving text behind in the wrong square",MFW-52,10115,Bug,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 1:34 PM,11/Sep/26 2:04 PM,11/Sep/26 2:03 PM,,,0,"*Component:* Drag and Drop – Images page
+*URL:* [https://www.qa-practice.com/elements/dragndrop/images|https://www.qa-practice.com/elements/dragndrop/images|smart-link] 
+
+*Priority:* High
+*Severity:* Major
+
+*Environment:* Chrome Browser / Windows 11
+
+*Requirement violated:*
+""When dropping the smiley into any of the squares, the text 'Dropped!' should appear in this square"" (and, as a side effect, ""A square without a smiley must be completely empty"")
+
+*Preconditions:* The smiley has already been dropped into a square at least once (so ""Dropped!"" is showing).
+
+*Steps to Reproduce:*
+
+# Go to [https://www.qa-practice.com/elements/dragndrop/images|https://www.qa-practice.com/elements/dragndrop/images|smart-link] 
+# Drag the smiley into a square; confirm ""Dropped!"" appears there correctly
+# Double-click the smiley (see attachments).
+# Observe the smiley's position and the ""Dropped!"" text's position
+# Repeat drag + double-click a few times
+
+*Expected Result:*
+Either double-click has no effect, or if it moves the smiley, ""Dropped!"" text moves with it to the correct square.
+
+*Actual Result:*
+Double-clicking moves the smiley to the other square, but ""Dropped!"" text stays behind in the square the smiley left. Repeating the action causes the text to keep lagging one square behind the smiley's actual position — resulting in a square showing ""Dropped!"" with no smiley present.
+
+*Additional Notes:* Suggests double-click is bound to a separate handler that moves the element without triggering the same drop-state update as the drag-and-drop flow. Worth a quick check on other click interactions too.
+
+*Related issues:* See MFW-51 — same page/feature, different root cause.
+
+*Attachments:* [^Smiley bug.pptx] ",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,MFW-32,,,,11/Sep/26 1:41 PM;146f1d14-1119-4f8e-ac97-47ff2be2b93e;Smiley bug.pptx;https://privaterelay-team-e6l0pzy9.atlassian.net/rest/api/3/attachment/content/10010,,,,,0|i000nz:,,,,,,,10072,MFW-9,Drag and Drop,To Do,11/Sep/26 2:04 PM
+Subject field clears its text on blur or Enter keypress,MFW-53,10116,Bug,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 2:10 PM,11/Sep/26 2:16 PM,11/Sep/26 2:25 PM,,,0,"*Type:* Bug
+
+*Priority:* Medium _(adjust based on severity in your project)_
+
+*Environment:* _Chrome Browser / Windows 11._
+
+*Summary:*
+Text entered into the ""Subject"" input field disappears unexpectedly when the field loses focus (clicking outside the box) or when the Enter key is pressed, instead of being retained.
+
+*Steps to Reproduce:*
+
+# Navigate to the practice form.
+# Click into the ""Subject"" input field.
+# Type any text (e.g., ""Test Subject"").
+# Either:
+#* a) Click anywhere outside the Subject box, *or*
+#* b) Press the Enter key while focus is still in the box.
+
+*Expected Result:*
+The text entered in the Subject field should remain in the field after losing focus or pressing Enter.
+
+*Actual Result:*
+The text entered in the Subject field is cleared/disappears after the blur event or Enter keypress.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,MFW-39,,,,,,,,,0|i000o7:,,,,,,,10075,MFW-12,Forms — Practice Form,To Do,11/Sep/26 2:10 PM
+City value is missing from the confirmation summary screen — only State is displayed,MFW-54,10117,Bug,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 2:22 PM,11/Sep/26 2:39 PM,11/Sep/26 2:39 PM,,,0,"*Component:* Forms – Student Registration Form
+*URL:* [https://www.qa-practice.com/forms/practice-form|https://www.qa-practice.com/forms/practice-form|smart-link] 
+
+*Priority:* Medium
+*Severity:* Minor–Major (pending confirmation of root cause — see Additional Notes)
+
+*Environment:* [fill in browser/OS you tested on, e.g. Chrome 128 / Windows 11]
+
+*Related Acceptance Criteria (from user story):*
+""Filling in all required fields (leaving optional fields empty) allows successful submission."" — implies fields the user filled in, including optional ones like City, should be accurately reflected back to the user after submission.
+
+*Preconditions:*
+All required fields (First Name, Last Name, Gender, Mobile) are filled in. Both State and City dropdowns are also selected.
+
+*Steps to Reproduce:*
+
+# Go to [https://www.qa-practice.com/forms/practice-form|https://www.qa-practice.com/forms/practice-form|smart-link] 
+# Fill in all required fields: First Name, Last Name, Gender, Mobile
+# Select a value in the ""State"" dropdown
+# Select a value in the ""City"" dropdown
+# Submit the form
+# Review the *confirmation summary screen* that appears after submission
+
+*Expected Result:*
+The confirmation summary screen should display both the selected *State* and the selected *City*.
+
+*Actual Result:*
+The confirmation summary screen displays the selected *State*, but the *City* value is missing — it is not shown anywhere on the summary.",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,MFW-36,MFW-42,,,,,,,,0|i000of:,,,,,,,10075,MFW-12,Forms — Practice Form,To Do,11/Sep/26 2:22 PM
+"Picture field accepts non-image files (e.g. .txt, .sav) with no validation error, and allows form submission",MFW-55,10118,Bug,To Do,MFW,My First Website,software,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Your first project,Medium,,,,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,11/Sep/26 2:30 PM,11/Sep/26 2:37 PM,11/Sep/26 2:30 PM,,,0,"*Component:* Forms – Student Registration Form (Picture field)
+*URL:* [https://www.qa-practice.com/forms/practice-form|https://www.qa-practice.com/forms/practice-form|smart-link] 
+
+*Priority:* High
+*Severity:* Major (core validation requirement is not enforced at all — not a partial/edge-case gap)
+
+*Environment:* [fill in browser/OS you tested on, e.g. Chrome 128 / Windows 11]
+
+*Acceptance Criteria violated:*
+""Non-image files are rejected with an appropriate error.""
+
+*Preconditions:*
+All required fields (First Name, Last Name, Gender, Mobile) are filled in with valid data.
+
+*Steps to Reproduce:*
+
+# Go to [https://www.qa-practice.com/forms/practice-form|https://www.qa-practice.com/forms/practice-form|smart-link] 
+# Fill in all required fields with valid data
+# In the ""Picture"" field, select a non-image file (e.g., a {{.txt}} file or a {{.sav}} file)
+# Observe whether any validation error is shown
+# Submit the form
+# Observe whether the submission succeeds or is blocked
+
+*Expected Result:*
+Selecting a non-image file type should trigger an appropriate validation error (e.g., ""Unsupported file type — please upload a JPG or PNG image""), and the form should not allow submission until a valid image file is provided (or the invalid file is removed).
+
+*Actual Result:*
+No validation error is displayed when a non-image file (tested with {{.txt}} and {{.sav}}) is selected in the Picture field. The form submits successfully with the invalid file still attached, with no error or blocking behavior at any point.
+
+!Incorrect picture format.jpg|width=264,alt=""Incorrect picture format.jpg""!",,Robertin Popescu,712020:0cac5f19-5f4c-445d-858f-e756092b6ffc,,,,,,,,,MFW-41,,,,11/Sep/26 2:37 PM;146f1d14-1119-4f8e-ac97-47ff2be2b93e;Incorrect picture format.jpg;https://privaterelay-team-e6l0pzy9.atlassian.net/rest/api/3/attachment/content/10011,,,,,0|i000on:,,,,,,,10075,MFW-12,Forms — Practice Form,To Do,11/Sep/26 2:30 PM
