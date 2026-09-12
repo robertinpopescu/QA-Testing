@@ -1,0 +1,298 @@
+Test Case ID,Title,Feature Area,Priority,Status,Sprint,Description / Acceptance Criteria
+MFW-23,Multiple Select,Select,Medium,Done,MFW Sprint 2,"As a QA engineer, I want to choose one or more options from the multi-select field, so that I can confirm all selections are reported correctly.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The user can select more than one option at once.
+* The user can deselect a previously selected option.
+* The Submit button sends all currently selected results.
+* After submission, all selected options are displayed on the page.
+* Resulting phrase template should be: ""to go by <transport> to the <destination> <when>""."
+MFW-13,Site Navigation,Navigation / Homepage,Medium,In Progress,MFW Sprint 1,"As a QA engineer, I want to navigate through the site's menu (Homepage, Single UI Elements, Forms), so that I can confirm all listed pages load correctly.
+
+Priority: Low
+Acceptance Criteria:
+
+* The left-hand menu displays: Homepage, Single UI Elements (Inputs, Buttons, Checkbox, Select, New tab, Text area, Alerts, Drag and Drop, Iframes, Pop-Up), and Forms (Practice Form).
+* Each menu item navigates to the correct corresponding page.
+* The currently active page is visually highlighted in the menu.
+* The ""Not sure where to start?"" quick-start list on the homepage (Text input, Simple button, Single checkbox, Text area, Select input) links to the correct pages."
+MFW-16,Password Field,Inputs,Medium,In Progress,MFW Sprint 1,"As a QA engineer, I want to enter text into the Password field, so that I can confirm it enforces the required complexity rules.
+
+Priority: High
+Acceptance Criteria:
+
+* Minimum length of 8 characters is enforced.
+* At least one uppercase letter is required.
+* At least one lowercase letter is required.
+* At least one digit is required.
+* At least one special character is required.
+* Passwords failing any rule are rejected with an appropriate error.
+* The form can be submitted by pressing Enter.
+* After submission, the entered text is displayed on the page."
+MFW-14,Text Input Field,Inputs,Medium,Done,MFW Sprint 1,"As a QA engineer, I want to enter text into the Text Input field, so that I can confirm it validates and submits correctly.
+
+Priority: High
+Acceptance Criteria:
+
+* The field is required; submitting it empty shows a validation error.
+* Only English letters, numbers, underscores, and hyphens are accepted as valid input.
+* Text shorter than 2 characters is rejected.
+* Text longer than 25 characters is rejected (or truncated/blocked at the limit).
+* The form can be submitted by pressing Enter, without clicking Submit.
+* After submission, the entered text is displayed on the page."
+MFW-15,Email Field,Inputs,Medium,Done,MFW Sprint 1,"As a QA engineer, I want to enter text into the Email field, so that I can confirm only valid email addresses are accepted.
+
+Priority: High
+Acceptance Criteria:
+
+* A valid email format (e.g., [user@example.com|mailto:user@example.com]) is accepted.
+* The ""localhost"" domain (e.g., user@localhost) is accepted as valid.
+* Invalid formats (missing ""@"", missing domain, spaces, etc.) are rejected with an error.
+* The form can be submitted by pressing Enter.
+* After submission, the entered email is displayed on the page."
+MFW-17,Simple Button,Buttons,Medium,Done,MFW Sprint 2,"As a QA engineer, I want to click the Simple Button, so that I can confirm it responds correctly to a click.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The button is labeled ""Click.""
+* The button is clickable/enabled by default.
+* Clicking the button triggers the expected action/response (e.g., visible confirmation)."
+MFW-18,Disabled Button,Buttons,Medium,Done,MFW Sprint 2,"As a QA engineer, I want to toggle the enable/disable control for the Submit button, so that I can confirm its enabled/disabled state behaves correctly.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The Submit button is disabled by default.
+* The user can enable the button via the provided control.
+* The user can subsequently disable the button again via the same control.
+* A disabled button cannot be clicked/submitted.
+* An enabled button can be clicked/submitted successfully."
+MFW-19,"Looks Like a Button"" Element",Buttons,Medium,Done,MFW Sprint 2,"As a QA engineer, I want to interact with the element styled to look like a button, so that I can confirm its actual underlying behavior matches (or intentionally differs from) a real button.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The element is visually styled like a standard button.
+* *(To confirm on page - verify actual tag/role, e.g., whether it is a real {{<button>}}, a styled {{<div>}}/{{<span>}}/{{<a>}}, and whether it is keyboard-accessible and clickable as expected.)"
+MFW-20,Single Checkbox,Checkbox,Medium,Done,MFW Sprint 2,"As a QA engineer, I want to select/deselect the single checkbox, so that I can confirm the result is reported correctly on submit.
+
+Priority: Medium
+Acceptance Criteria:
+
+* There is exactly one checkbox on the page, labeled ""Select me or not.""
+* The user can select and deselect the checkbox.
+* The Submit button is always enabled, regardless of checkbox state.
+* If the checkbox was not selected at submit time, no result is displayed.
+* If the checkbox was selected at submit time, the checkbox's name is displayed to the user."
+MFW-21,Multiple Checkboxes,Checkbox,Medium,Done,MFW Sprint 2,"As a QA engineer, I want to select any combination of the three checkboxes, so that I can confirm all selected values are reported correctly on submit.
+
+Priority: Medium
+Acceptance Criteria:
+
+* There are exactly three checkboxes labeled ""One,"" ""Two,"" and ""Three.""
+* The user can select any checkbox, in any combination.
+* The Submit button is always enabled.
+* If no checkbox is selected at submit time, no result is displayed.
+* If one or more checkboxes are selected, the name(s) of all selected checkboxes are displayed."
+MFW-22,Single Select,Select,Medium,Done,MFW Sprint 2,"As a QA engineer, I want to choose an option from the ""Choose language"" dropdown, so that I can confirm the selection is validated and reported correctly.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The field is labeled ""Choose language"" and is required.
+* Submitting without a selection shows a validation error.
+* The user can select any available option.
+* The Submit button sends the selected result.
+* After submission, the selected option is displayed on the page."
+MFW-24,New Tab Link,New Tab,Medium,Done,MFW Sprint 2,"As a QA engineer, I want to click the ""New tab"" link, so that I can confirm it opens the correct page in a new browser tab.
+
+Priority: Low
+Acceptance Criteria:
+
+* Clicking the link opens a new browser tab (not the same tab).
+* The new tab loads the expected destination page.
+* The original tab remains open and unchanged."
+MFW-25,New Tab Button,New Tab,Medium,Done,MFW Sprint 2,"As a QA engineer, I want to click the ""New tab"" button, so that I can confirm it opens the correct page in a new browser tab.
+
+Priority: Low
+Acceptance Criteria:
+
+* Clicking the button opens the page {{/elements/new\\_tab/new\\_page}}.
+* The page opens in a new browser tab, not the current one.
+* The original tab remains open and unchanged."
+MFW-26,Single Text Area,Text Area,Medium,Done,MFW Sprint 2,"As a QA engineer, I want to enter text into the ""Text area"" field, so that I can confirm it validates and submits correctly.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The field is labeled ""Text area"" and is required.
+* Submitting without entering text shows a validation error.
+* The user can enter any text into the field.
+* The Submit button sends the entered text.
+* After submission, the entered text is displayed on the page."
+MFW-27,Multiple Text Areas,Text Area,Medium,In Progress,MFW Sprint 2,"As a QA engineer, I want to enter text into the ""First chapter,"" ""Second chapter,"" and ""Third chapter"" fields, so that I can confirm each field validates and submits independently.
+
+Priority: Medium
+Acceptance Criteria:
+
+* All three fields (""First chapter,"" ""Second chapter,"" ""Third chapter"") are present.
+* Only ""First chapter"" is required; the other two are optional.
+* Submitting with ""First chapter"" empty shows a validation error.
+* The user can enter any text into each field.
+* After submission, the text entered into all fields is displayed on the page."
+MFW-28,Alert Box,Alerts,Medium,Done,MFW Sprint 2,"As a QA engineer, I want to trigger the JS alert box, so that I can confirm its content and dismissal behavior.
+
+Priority: Medium
+Acceptance Criteria:
+
+* A ""Click"" button is present on the page.
+* Clicking it displays a native alert containing the text ""I am an alert!""
+* The alert has an OK button.
+* Clicking OK closes the alert."
+MFW-29,Confirmation Box,Alerts,Medium,Done,MFW Sprint 2,"As a QA engineer, I want to trigger the JS confirmation box and choose OK or Cancel, so that I can confirm the correct result is recorded for each choice.
+
+Priority: Medium
+Acceptance Criteria:
+
+* A ""Click"" button is present on the page.
+* Clicking it displays a native confirm dialog containing the text ""I am an alert!""
+* The dialog has OK and Cancel buttons.
+* Choosing OK records/displays the corresponding result (""You selected"" OK).
+* Choosing Cancel records/displays the corresponding result (""You selected"" Cancel)."
+MFW-30,Prompt Box,Alerts,Medium,In Progress,MFW Sprint 2,"As a QA engineer, I want to trigger the JS prompt box, enter text, and choose OK or Cancel, so that I can confirm the entered value and choice are handled correctly.
+
+Priority: Medium
+Acceptance Criteria:
+
+* A ""Click"" button is present on the page.
+* Clicking it displays a native prompt containing the text ""I am an alert!""
+* The prompt has OK and Cancel buttons plus a text input field.
+* Submitting with OK records/displays the text the user entered.
+* Choosing Cancel does not record/display any entered text."
+MFW-31,Boxes,Drag and Drop,Medium,In Progress,MFW Sprint 3,"As a QA engineer, I want to drag the bottom square into the top square, so that I can confirm the drag-and-drop feature works correctly for the Boxes tab.
+
+Priority: Medium
+Acceptance Criteria:
+
+* Two squares are displayed: ""Drop here"" (top) and ""Drag me"" (bottom).
+* The bottom square can be dragged and dropped onto the top square.
+* On a successful drop, the text ""Dropped!"" appears inside the top square.
+* The bottom square can only be dragged once; a second drag attempt has no effect."
+MFW-32,Images,Drag and Drop,Medium,In Progress,MFW Sprint 3,"As a QA engineer, I want to drag the smiley image between the two squares repeatedly, so that I can confirm the drag-and-drop feature works correctly and without restriction for the Images tab.
+
+Priority: Medium
+Acceptance Criteria:
+
+* Two squares are displayed, with the smiley initially in the top square.
+* There should be a smiley in the bottom square
+* The smiley can be dragged between the two squares an unlimited number of times.
+* On a successful drop, the text ""Dropped!"" appears in the square that received the smiley.
+* The square that does not contain the smiley remains completely empty."
+MFW-33,Iframe Page,Iframes,Medium,Done,MFW Sprint 3,"As a QA engineer, I want to locate and interact with elements inside the embedded iframe, so that I can confirm the iframe content loads and is accessible correctly.
+
+Priority: Medium
+Acceptance Criteria:
+
+* An iframe containing a sample page is present on the page.
+* The iframe's content loads correctly and is visible.
+* Elements inside the iframe can be located and interacted with independently of the parent page."
+MFW-34,Modal Pop-Up,Pop-Up,Medium,Done,MFW Sprint 3,"As a QA engineer, I want to launch the modal Pop-Up, select a checkbox, and send or cancel, so that I can confirm the correct value is passed back to the page.
+
+Priority: Medium
+Acceptance Criteria:
+
+* A button named ""Launch Pop-Up"" is present and opens the Pop-Up.
+* The Pop-Up title reads ""I am a Pop-Up.""
+* The Pop-Up contains a checkbox labeled ""Select me or not.""
+* The Pop-Up has two buttons: ""Cancel"" and ""Send.""
+* Clicking ""Send"" passes the checkbox's selected value back to the main page.
+* The value sent is displayed in a ""Selected checkboxes"" section on the page.
+* The ""Selected checkboxes"" section is not present until a value has been sent at least once via the Pop-Up.
+* Clicking ""Cancel"" closes the Pop-Up without sending any value."
+MFW-35,Iframe Pop-Up,Pop-Up,Medium,Done,MFW Sprint 3,"As a QA engineer, I want to enter text into a field located inside an iframe within a Pop-Up, so that I can confirm the input is validated correctly.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The Pop-Up contains an iframe with an input field.
+* Entering the correct expected text and submitting shows a green ""Correct!"" message.
+* Entering incorrect text and submitting shows a yellow ""Nope."" message (or equivalent negative feedback)."
+MFW-36,Required Field Validation,Forms - Practice Form,Medium,In Progress,MFW Sprint 4,"As a QA engineer, I want to submit the Student Registration form with required fields left empty, so that I can confirm validation correctly blocks submission.
+
+Priority: High
+Acceptance Criteria:
+
+* First Name, Last Name, Gender, and Mobile are marked as required (*).
+* Submitting the form with any required field empty displays a validation error and does not submit.
+* Filling in all required fields (leaving optional fields empty) allows successful submission."
+MFW-37,Mobile Number Validation,Forms - Practice Form,Medium,Done,MFW Sprint 4,"As a QA engineer, I want to enter various values into the Mobile field, so that I can confirm only a valid 10-digit number is accepted.
+
+Priority: High
+Acceptance Criteria:
+
+* The field accepts exactly 10 digits.
+* Non-numeric characters are rejected.
+* Fewer than 10 digits is rejected on submit.
+* More than 10 digits is either blocked from entry or rejected on submit."
+MFW-38,Gender Selection,Forms - Practice Form,Medium,Done,MFW Sprint 4,"As a QA engineer, I want to select each Gender option, so that I can confirm only one option can be active at a time.
+
+Priority: Medium
+Acceptance Criteria:
+
+* Options ""Male,"" ""Female,"" and ""Other"" are shown as radio buttons.
+* Only one option can be selected at a time.
+* Gender is required for submission."
+MFW-39,Subjects Field,Forms - Practice Form,Medium,In Progress,MFW Sprint 4,"As a QA engineer, I want to enter text into the ""Subjects"" field and move focus away or press Enter, so that I can confirm the entered text is retained.
+
+Priority: High
+Acceptance Criteria:
+
+* Text entered into the Subject field is retained after clicking outside the field (on blur).
+* Text entered into the Subject field is retained after pressing Enter.
+* The entered subject appears correctly if the field supports multiple tag-style entries (verify against intended design)."
+MFW-40,Hobbies Selection,Forms - Practice Form,Medium,Done,MFW Sprint 4,"As a QA engineer, I want to select any combination of Hobbies checkboxes, so that I can confirm multiple selections are supported and retained.
+
+Priority: Low
+Acceptance Criteria:
+
+* Options ""Sports,"" ""Reading,"" and ""Music"" are available as checkboxes.
+* Any combination (including none, one, or all) can be selected.
+* Selected hobbies are retained through form submission and reflected in the confirmation."
+MFW-41,Picture Upload,Forms - Practice Form,Medium,In Progress,MFW Sprint 4,"As a QA engineer, I want to upload a picture using the Picture field, so that I can confirm only supported file types/sizes are accepted.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The field accepts standard image file types (e.g., JPG, PNG).
+* Non-image files are rejected with an appropriate error.
+* The selected file name is displayed once chosen.
+* The user can replace a previously selected file with a new one before submitting."
+MFW-42,State/City Dependent Selects,Forms - Practice Form,Medium,In Progress,MFW Sprint 4,"As a QA engineer, I want to select a State and then a City, so that I can confirm the City list correctly depends on the selected State.
+
+Priority: Medium
+Acceptance Criteria:
+
+* The State dropdown includes ""Select State,"" ""NCR,"" ""Uttar Pradesh,"" ""Haryana,"" ""Rajasthan.""
+* The City dropdown is empty/disabled until a State is chosen (""Select City"" placeholder shown).
+* Selecting a State populates the City dropdown with cities relevant to that State only.
+* Changing the State after a City is already selected resets/updates the City field appropriately."
+MFW-43,Successfull Submission,Forms - Practice Form,Medium,Done,MFW Sprint 4,"As a QA engineer, I want to fill in all required fields correctly and submit the form, so that I can confirm the confirmation modal appears as expected.
+
+Priority: High
+Acceptance Criteria:
+
+* With all required fields filled in validly, clicking Submit succeeds without errors.
+* A confirmation modal appears with the heading ""Thanks for submitting the form.""
+* The modal has a ""Close"" button that dismisses it.
+* After closing, the form is left in a consistent state (either cleared or as defined by design - verify expected behavior)."
+MFW-44,Ad Placeholder Overlap,Forms - Practice Form,Medium,Done,MFW Sprint 4,"As a QA engineer, I want to verify the ad placeholder does not overlap interactive form fields, so that I can confirm all fields remain clickable and usable.
+
+Priority: Low
+Acceptance Criteria:
+
+* The ad placeholder is rendered in its designated area only.
+* No form field, label, or button is obscured or made unclickable by the ad placeholder at common screen resolutions.
+* Automated locators for form fields are not intercepted by the ad placeholder element."

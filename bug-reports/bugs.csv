@@ -1,0 +1,114 @@
+Bug ID,Title,Related Feature,Component,Priority,Severity,Status,Steps to Reproduce,Expected Result,Actual Result,Reported Date
+MFW-46,Inconsistent page titles displayed across multiple navigation menu items,Navigation / Homepage,,Medium,Low,To Do,"# Open the application.
+# Navigate through the left-side menu items.
+# Observe the page title displayed after selecting each menu item.",The page title should match the selected navigation menu item name or follow a consistent naming convention throughout the application.,"The displayed page titles differ from the corresponding menu item names.
+
+*Examples:*
+
+* Menu Item: ""Inputs"" - Displayed Title: ""Input field""
+* Menu Item: ""Checkbox"" - Displayed Title: ""Checkboxes""
+* Menu Item: ""Select"" - Displayed Title: ""Select inputs""
+* Menu Item: New tab - Displayed Title: Open link in a new tab�
+* Menu Item: Text area -  Displayed Title: TextArea input�
+* Menu Item: Drag and Drop -  Displayed Title: Drag-n-drop",11-09-26 09:14
+MFW-47,Generic error message is displayed when password validation requirements are not met,Inputs,,Medium,Medium,To Do,"# Open the Password Validation form.
+# Enter a password that violates one or more password requirements (e.g., ""password"" - no uppercase letter, digit, or special character).
+# Submit the form.","The application should display a clear validation message indicating which password requirement(s) are not met, for example:
+
+* Password must contain at least 8 characters.
+* Password must contain at least one uppercase letter.
+* Password must contain at least one lowercase letter.
+* Password must contain at least one digit.
+* Password must contain at least one special character.
+
+Alternatively, the application should provide specific feedback for each failed validation rule.","The application displays the message:
+""Low password complexity""",11-09-26 09:57
+MFW-48,Text Area input is automatically converted from uppercase to sentence case after submission,Text Area,,Medium,,To Do,"# Navigate to the form page.
+# Enter the value **""QA""** in the first (mandatory) Text Area.
+# Leave the other fields as desired.
+# Click the **Submit** button.
+# Observe the submitted value displayed on the page.","The entered value should be displayed exactly as entered by the user (**""QA""**), without any modification of letter casing.","The entered value **""QA""** is displayed as **""Qa""** after form submission.
+
+*Additional Observation:*
+The issue occurs with any word entered entirely in uppercase letters. After submission, only the first character remains uppercase while all remaining characters are automatically converted to lowercase.
+
+*Examples:*
+
+* Input: **QA** - Displayed: **Qa**
+* Input: **TESTING** - Displayed: **Testing**
+* Input: **BUG** - Displayed: **Bug**
+
+*Impact:*
+The application alters user-provided data and does not preserve the original input format, which may lead to incorrect data representation.",11-09-26 10:50
+MFW-49,Cancel button does not display the user's input from the prompt,Alerts,,Medium,,To Do,"# Navigate to the page.
+# Click the **Click** button.
+# Observe that an alert/prompt window is displayed.
+# Enter any text in the input field, for example **""QA Testing""**.
+# Click the **Cancel** button.
+# Observe the message displayed on the page.","After clicking **Cancel**, the text entered by the user in the prompt input field should be displayed on the page, according to the requirement:
+
+*""The user's input should be displayed on the page.""*","After clicking **Cancel**, the user's input is not displayed. Instead, the page displays the message:
+
+*""You cancel the prompt""*
+
+For example:
+
+* Input: **QA Testing**
+* Click: **Cancel**
+* Expected output: **QA Testing**
+* Actual output: **You cancel the prompt**
+
+*Additional Information:*
+When the user clicks **OK**, the entered text is correctly displayed on the page. The issue occurs only when the **Cancel** button is used.
+
+*Impact:*
+The application does not behave consistently between the **OK** and **Cancel** actions and does not satisfy the requirement that the user's input should be displayed after closing the prompt.",11-09-26 12:02
+MFW-50,Bottom square can be dragged multiple times if not dropped onto the top square,Drag and Drop,Drag and Drop – Boxes page,Medium,"Minor (functional, not blocking, but violates stated requirement)",To Do,"# Go to [https://www.qa-practice.com/elements/dragndrop/boxes|https://www.qa-practice.com/elements/dragndrop/boxes|smart-link] 
+# Drag the bottom square (""Drag me"") to any location that is **not** the top square (""Drop here"")
+# Release the mouse — the square stays where dropped
+# Repeat step 2–3 multiple times, dragging the square to different empty areas
+# Observe how many times the drag can be repeated","Per the stated requirement, the bottom square should only be draggable once — implying that after the first drag (or first drag attempt), further dragging should be disabled or ignored, regardless of where it lands.","The square can be dragged an unlimited number of times, as long as it is not dropped onto the top square. The ""once only"" restriction is only enforced once the square is successfully dropped on the top square (triggering ""Dropped!""), not on the act of dragging itself.
+
+*Additional Notes:*
+This suggests the ""drag count"" or ""locked"" state is being set only inside the successful-drop event handler, rather than on drag start/end in general. If the intent was ""the user gets one shot at placing it,"" the fix should track drag attempts (or lock the element after the first drag interaction) rather than only locking on successful drop.
+
+!Second Position.jpg|width=264,alt=""Second Position.jpg""!
+
+!First Position.jpg|width=264,alt=""First Position.jpg""!
+
+!Third Position.jpg|width=264,alt=""Third Position.jpg""!",11-09-26 12:14
+MFW-51,Smiley appears in the top square on page load instead of the bottom square,Drag and Drop,Drag and Drop - Images page,Medium,Major,To Do,"# Go to [https://www.qa-practice.com/elements/dragndrop/images|https://www.qa-practice.com/elements/dragndrop/images|smart-link] 
+# Observe the page on initial load, without performing any action",The smiley should be in the bottom square on page load. The top square should be empty.,"The smiley is in the top square on page load; the bottom square is empty.
+
+!Initial load page.jpg|width=264,alt=""Initial load page.jpg""!",11-09-26 13:30
+MFW-52,"Double-clicking the smiley moves it between squares without updating ""Dropped!"" text, leaving text behind in the wrong square",Drag and Drop,Drag and Drop - Images page,Medium,Major,To Do,"# Go to [https://www.qa-practice.com/elements/dragndrop/images|https://www.qa-practice.com/elements/dragndrop/images|smart-link] 
+# Drag the smiley into a square; confirm ""Dropped!"" appears there correctly
+# Double-click the smiley (see attachments).
+# Observe the smiley's position and the ""Dropped!"" text's position
+# Repeat drag + double-click a few times","Either double-click has no effect, or if it moves the smiley, ""Dropped!"" text moves with it to the correct square.","Double-clicking moves the smiley to the other square, but ""Dropped!"" text stays behind in the square the smiley left. Repeating the action causes the text to keep lagging one square behind the smiley's actual position — resulting in a square showing ""Dropped!"" with no smiley present.
+
+*Additional Notes:* Suggests double-click is bound to a separate handler that moves the element without triggering the same drop-state update as the drag-and-drop flow. Worth a quick check on other click interactions too.
+
+*Related issues:* See MFW-51 — same page/feature, different root cause.
+
+*Attachments:* [^Smiley bug.pptx]",11-09-26 13:34
+MFW-53,Subject field clears its text on blur or Enter keypress,Forms-Practice Form,,Medium,,To Do,"# Navigate to the practice form.
+# Click into the ""Subject"" input field.
+# Type any text (e.g., ""Test Subject"").
+# Either:
+#** a) Click anywhere outside the Subject box, **or*
+#* b) Press the Enter key while focus is still in the box.",The text entered in the Subject field should remain in the field after losing focus or pressing Enter.,The text entered in the Subject field is cleared/disappears after the blur event or Enter keypress.,11-09-26 14:10
+MFW-54,City value is missing from the confirmation summary screen — only State is displayed,Forms-Practice Form,Forms -  Registration Form,Medium,Minor -Major (pending confirmation of root cause — see Additional Notes),To Do,"# Go to [https://www.qa-practice.com/forms/practice-form|https://www.qa-practice.com/forms/practice-form|smart-link] 
+# Fill in all required fields: First Name, Last Name, Gender, Mobile
+# Select a value in the ""State"" dropdown
+# Select a value in the ""City"" dropdown
+# Submit the form
+# Review the **confirmation summary screen** that appears after submission",The confirmation summary screen should display both the selected **State** and the selected **City**.,"The confirmation summary screen displays the selected **State**, but the **City** value is missing - it is not shown anywhere on the summary.",11-09-26 14:22
+MFW-55,"Picture field accepts non-image files (e.g. .txt, .sav) with no validation error, and allows form submission",Forms — Practice Form,Forms – Student Registration Form (Picture field),Medium,Major (core validation requirement is not enforced at all — not a partial/edge-case gap),To Do,"# Go to [https://www.qa-practice.com/forms/practice-form|https://www.qa-practice.com/forms/practice-form|smart-link] 
+# Fill in all required fields with valid data
+# In the ""Picture"" field, select a non-image file (e.g., a {{.txt}} file or a {{.sav}} file)
+# Observe whether any validation error is shown
+# Submit the form
+# Observe whether the submission succeeds or is blocked","Selecting a non-image file type should trigger an appropriate validation error (e.g., ""Unsupported file type — please upload a JPG or PNG image""), and the form should not allow submission until a valid image file is provided (or the invalid file is removed).","No validation error is displayed when a non-image file (tested with {{.txt}} and {{.sav}}) is selected in the Picture field. The form submits successfully with the invalid file still attached, with no error or blocking behavior at any point.
+
+!Incorrect picture format.jpg|width=264,alt=""Incorrect picture format.jpg""!",11-09-26 14:30
